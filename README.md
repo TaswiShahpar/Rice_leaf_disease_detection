@@ -17,6 +17,9 @@ We explored image processing, machine learning, and deep learning techniques to 
 
 ## Dataset
 We used multiple rice leaf datasets:
+## Dataset
+The dataset used in this project can be accessed here:  
+[Download from Google Drive](https://drive.google.com/file/d/1R46sIRok3dAoFqOcVC2_9FYXRI07G-yj/view?usp=sharing)
 
 ### Rice_Leaf_AUG Dataset
 
